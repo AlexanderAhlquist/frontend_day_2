@@ -1,0 +1,16 @@
+form {
+    margin-top: 10px; 
+    border: 1px solid black;
+    height: 340px; 
+    width:200px;
+    background-color: skyblue;
+    border-radius: 10px;
+}
+
+body{
+    background-color: rgb(219, 236, 252);
+}
+
+button{
+    margin:20px;
+}
